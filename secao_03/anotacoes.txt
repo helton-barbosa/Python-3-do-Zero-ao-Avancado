@@ -33,3 +33,10 @@ Argumentos nomeados:
     end = (fim de linha) define a string que será impressa no final da chamada da função;
     file = (arquivo) especifica o objeto de arquivo no qual você deseja imprimir os dados;
     flush = (descarregar) se for 'True' forçará a descarga do buffer, qo que significa que os dados serão impressos imediatamente em vez de serem armazenados em buffer.
+------------------------------------------------------------------------------------------------------------------------
+
+aula_003.py -=> Tipo de dados (string)
+str -> string -> texto
+É um tipo de dado usado para representar texto. As strings são sequências de caracteres alfanuméricos e podem incluir letras, números, espaços e caracteres especiais. É um tipo de dado imutável.
+Escape - utilizado para imprimir caracteres especiais em strings (\' \"...)
+r - o prefixo 'r' indica que uma string deve ser tratada como uma "raw string", o que significa que caracteres de escape não são interpretados.
