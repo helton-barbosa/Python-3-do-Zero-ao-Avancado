@@ -40,3 +40,17 @@ str -> string -> texto
 É um tipo de dado usado para representar texto. As strings são sequências de caracteres alfanuméricos e podem incluir letras, números, espaços e caracteres especiais. É um tipo de dado imutável.
 Escape - utilizado para imprimir caracteres especiais em strings (\' \"...)
 r - o prefixo 'r' indica que uma string deve ser tratada como uma "raw string", o que significa que caracteres de escape não são interpretados.
+------------------------------------------------------------------------------------------------------------------------
+
+aula_004.py -=> Tipo de dados (int)
+int -> integer -> inteiro
+O tipo de dados int é usado para representar números inteiros. Ele pode ser positivo, negativo ou zero, mas sem casas decimais.
+
+-=> Tipo de dados (float)
+float - flutuante - casas decimais
+O tipo de dado float é usado para representar números de ponto flutuante, ou seja, números com casas decimais. Os números float podem ser positivos ou negativos.
+
+-=> type()
+A classe type() em Python é uma função incorporada que permite determinar o tipo de um objeto. Ele é útil para verificar o tipo de um objeto e, com base nessa informação, tomar decisões em seu código.
+Exemplo:
+type(100) # imprime <class 'int'>
