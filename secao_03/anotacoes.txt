@@ -62,3 +62,5 @@ O tipo de dado bool é usado para representar valores booleanos, que podem ser '
 aula_006.py -=> Conversão de tipos
 coerção - type convertion - typecasting - coercion
 A conversão de tipos, também conhecida como coerção de tipos ou casting, é o processo de converter um valor de um tipo de dados para outro tipo em Python. Isso é útil quando você precisa realizar operações ou manipulações que envolvem diferentes tipos de dados.
+
+aula_007.py -=> Variáveis em Python
