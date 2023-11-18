@@ -54,13 +54,21 @@ O tipo de dado float é usado para representar números de ponto flutuante, ou s
 A classe type() em Python é uma função incorporada que permite determinar o tipo de um objeto. Ele é útil para verificar o tipo de um objeto e, com base nessa informação, tomar decisões em seu código.
 Exemplo:
 type(100) # imprime <class 'int'>
+------------------------------------------------------------------------------------------------------------------------
 
 aula_005.py -=> Tipo primitivo de dados imutáveis (bool)
 bool - boolean - booleano
 O tipo de dado bool é usado para representar valores booleanos, que podem ser 'True' (verdadeiro) ou 'False' (falso). Os valores booleanos são fundamentais em Python e são frequentemente usados para controle de fluxo, tomada de decisões e lógica em geral.
+------------------------------------------------------------------------------------------------------------------------
 
 aula_006.py -=> Conversão de tipos
 coerção - type convertion - typecasting - coercion
 A conversão de tipos, também conhecida como coerção de tipos ou casting, é o processo de converter um valor de um tipo de dados para outro tipo em Python. Isso é útil quando você precisa realizar operações ou manipulações que envolvem diferentes tipos de dados.
+------------------------------------------------------------------------------------------------------------------------
 
 aula_007.py -=> Variáveis em Python
+variáveis são usadas para salvar algo na memória do computador. Há uma convenção em que:
+1 - Os nomes de variáveis em Python são sensíveis a maiúsculas e minúsculas: idade e Idade são diferentes;
+2 - Devem começar com uma letra (a-z, A-Z) ou um sublinhado (_);
+3 - Podem conter letras, números e sublinhados;
+4 - Evite utilizar palavras reservadas como nomes de variáveis.
